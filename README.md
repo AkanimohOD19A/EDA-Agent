@@ -4,7 +4,7 @@
 > Upload a CSV. Describe what you care about. Get a full, structured EDA report — no code required.
 
 ---
-![ezgif-84b429c7dbe1ef83.gif](ezgif-84b429c7dbe1ef83.gif)
+![0321(1).mp4](0321(1).mp4)
 ---
 ## Overview
 
