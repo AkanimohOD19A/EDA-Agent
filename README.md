@@ -4,7 +4,7 @@
 > Upload a CSV. Describe what you care about. Get a full, structured EDA report — no code required.
 
 ---
-[0321(1).mp4](0321%281%29.mp4)
+[Watch Demo](https://github.com/AkanimohOD19A/EDA-Agent/blob/master/0321%281%29.mp4)
 ---
 ## Overview
 
