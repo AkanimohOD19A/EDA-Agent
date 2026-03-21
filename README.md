@@ -4,7 +4,8 @@
 > Upload a CSV. Describe what you care about. Get a full, structured EDA report — no code required.
 
 ---
-
+![ezgif-84b429c7dbe1ef83.gif](ezgif-84b429c7dbe1ef83.gif)
+---
 ## Overview
 
 EDA Agent is a lightweight multi-agent framework that automates the entire exploratory data analysis workflow. Instead of a single monolithic LLM prompt, it decomposes EDA into **five specialist agents** that run sequentially — each one building on the findings of the last — before a final agent synthesizes everything into a structured report.
